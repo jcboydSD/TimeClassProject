@@ -10,7 +10,7 @@ package timeclassproject;
 public class Time 
 {
     private int hour, minutes, seconds; //time values
-    private String indicator = "am"; //for am or pm
+    private String indicator; //for am or pm
     
     //*************************************************************************            
     
